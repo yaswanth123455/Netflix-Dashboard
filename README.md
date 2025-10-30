@@ -52,8 +52,8 @@ To design an interactive Tableau dashboard that:<br>
 • 💡 Decision Support: The dashboard empowers data teams and content strategists to make informed decisions on which genres or regions to expand next.<br>
 
 ### 6.	Screenshots
-<b>Dashboard Preview:-</b><br>
+<b>Dashboard Preview:</b><br>
 <img src="https://github.com/yaswanth123455/Netflix-Dashboard/blob/main/Netflix%20Dashboard%20Snapshot.png?raw=true" alt="Dashboard"/>
 <br><br>
-<b>Logo Used:-</b><br>
+<b>Logo Used:</b><br>
 <img src="https://github.com/yaswanth123455/Netflix-Dashboard/blob/main/Netflix%20logo.png?raw=true" alt="Logo"/>
