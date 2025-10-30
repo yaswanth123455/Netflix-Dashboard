@@ -38,18 +38,18 @@ To design an interactive Tableau dashboard that:<br>
 • Supports strategic decisions on content acquisition and regional focus<br>
 
 <b>Walkthrough of Key Visuals</b><br>
-• 🌍 Global Map: Displays the total number of Netflix titles available per country. Darker shades indicate regions with more titles (e.g., U.S., India, U.K.).<br>
-• ⭐ Ratings Breakdown: Bar chart showing how Netflix content is distributed by maturity ratings — dominated by TV-MA and TV-14, emphasizing adult and teen audiences.<br>
-• 🎭 Top 10 Genres: Bar visualization highlighting Documentaries and Stand-Up Comedy as leading genres, showing Netflix’s investment in varied, niche content.<br>
-• 🍿 Movies vs TV Shows Distribution: Bubble chart showing Movies (68.4%) and TV Shows (31.6%) — emphasizing the movie-heavy catalog.<br>
-• 📅 Trends by Year: Area chart revealing rapid content growth post-2015, peaking around 2018–2019 — aligning with Netflix’s global expansion strategy.<br>
+• 🌍 <b>Global Map:</b> Displays the total number of Netflix titles available per country. Darker shades indicate regions with more titles (e.g., U.S., India, U.K.).<br>
+• ⭐ <b>Ratings Breakdown:</b> Bar chart showing how Netflix content is distributed by maturity ratings — dominated by TV-MA and TV-14, emphasizing adult and teen audiences.<br>
+• 🎭 <b>Top 10 Genres:</b> Bar visualization highlighting Documentaries and Stand-Up Comedy as leading genres, showing Netflix’s investment in varied, niche content.<br>
+• 🍿 <b>Movies vs TV Shows Distribution:</b> Bubble chart showing Movies (68.4%) and TV Shows (31.6%) — emphasizing the movie-heavy catalog.<br>
+• 📅 <b>Trends by Year:</b> Area chart revealing rapid content growth post-2015, peaking around 2018–2019 — aligning with Netflix’s global expansion strategy.<br>
 
 <b>Business Impact & Insights</b><br>
-• 📈 Strategic Growth Insight: Netflix’s content volume surged significantly between 2015–2019, supporting its aggressive expansion and original production phases.<br>
-• 👥 Audience Targeting: The dominance of TV-MA and TV-14 content indicates a clear focus on adult and young-adult segments.<br>
-• 🌐 Regional Strategy: High content presence in the U.S., India, and the U.K. reflects Netflix’s major market penetration and production partnerships.<br>
-• 🎬 Genre Diversification: Documentaries and international dramas highlight Netflix’s aim to diversify and attract a global audience.<br>
-• 💡 Decision Support: The dashboard empowers data teams and content strategists to make informed decisions on which genres or regions to expand next.<br>
+• 📈 <b>Strategic Growth Insight:</b> Netflix’s content volume surged significantly between 2015–2019, supporting its aggressive expansion and original production phases.<br>
+• 👥 <b>Audience Targeting:</b> The dominance of TV-MA and TV-14 content indicates a clear focus on adult and young-adult segments.<br>
+• 🌐 <b>Regional Strategy:</b> High content presence in the U.S., India, and the U.K. reflects Netflix’s major market penetration and production partnerships.<br>
+• 🎬 <b>Genre Diversification:</b> Documentaries and international dramas highlight Netflix’s aim to diversify and attract a global audience.<br>
+• 💡 <b>Decision Support:</b> The dashboard empowers data teams and content strategists to make informed decisions on which genres or regions to expand next.<br>
 
 ### 6.	Screenshots
 <b>Dashboard Preview:</b><br>
@@ -57,3 +57,7 @@ To design an interactive Tableau dashboard that:<br>
 <br><br>
 <b>Logo Used:</b><br>
 <img src="https://github.com/yaswanth123455/Netflix-Dashboard/blob/main/Netflix%20logo.png?raw=true" alt="Logo"/>
+
+### 7.	Tableau Public Dashboard URL
+<b>View Live:</b> <a href="https://public.tableau.com/app/profile/varada.yaswanth/viz/NetflixDashboard_17617735102250/Netflix">Netflix Dashboard</a>
+
