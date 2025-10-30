@@ -59,4 +59,6 @@ To design an interactive Tableau dashboard that:<br>
 <img src="https://github.com/yaswanth123455/Netflix-Dashboard/blob/main/Netflix%20logo.png?raw=true" alt="Logo"/>
 
 ### 7.	Tableau Public Dashboard URL
-<b>View Live:</b> <a href="https://public.tableau.com/app/profile/varada.yaswanth/viz/NetflixDashboard_17617735102250/Netflix" target="_blank">Netflix Dashboard</a>
+<b>View Live:</b> <a href="https://public.tableau.com/app/profile/varada.yaswanth/viz/NetflixDashboard_17617735102250/Netflix" target="_blank">
+<button>Netflix Dashboard</button>
+</a>
