@@ -51,12 +51,10 @@ To design an interactive Tableau dashboard that:<br>
 • 🎬 <b>Genre Diversification:</b> Documentaries and international dramas highlight Netflix’s aim to diversify and attract a global audience.<br>
 • 💡 <b>Decision Support:</b> The dashboard empowers data teams and content strategists to make informed decisions on which genres or regions to expand next.<br>
 
-### 6.	Screenshots
+### 6.	Snapshot
 <b>Dashboard Preview:</b><br>
 <img src="https://github.com/yaswanth123455/Netflix-Dashboard/blob/main/Netflix%20Dashboard%20Snapshot.png?raw=true" alt="Dashboard"/>
-<br><br>
-<b>Logo Used:</b><br>
-<img src="https://github.com/yaswanth123455/Netflix-Dashboard/blob/main/Netflix%20logo.png?raw=true" alt="Logo"/>
+<br>
 
 ### 7.	Tableau Public Dashboard URL
 <b>View Live:</b> <a href="https://public.tableau.com/app/profile/varada.yaswanth/viz/NetflixDashboard_17617735102250/Netflix" target="_blank">
