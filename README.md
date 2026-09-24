@@ -53,7 +53,7 @@ To design an interactive Tableau dashboard that:<br>
 
 ### 6.	Snapshot
 <b>Dashboard Preview:</b><br>
-<img src="https://github.com/yaswanth123455/Netflix-Dashboard/blob/main/Netflix%20Dashboard%20Snapshot.png?raw=true" alt="Dashboard"/>
+<img src="https://raw.githubusercontent.com/yaswanth123455/Netflix-Dashboard/main/Netflix%20Dashboard%20Snapshot.png" alt="Dashboard"/>
 <br>
 
 ### 7.	Tableau Public Dashboard URL
