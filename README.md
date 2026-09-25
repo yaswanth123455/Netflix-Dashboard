@@ -1,4 +1,4 @@
-# Netflix-Dashboard
+# Netflix_Dashboard
 
 ### 1.	Project Title
 Netflix Movies & TV Shows Data Visualization Dashboard
